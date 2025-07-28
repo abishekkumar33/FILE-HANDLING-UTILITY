@@ -46,3 +46,4 @@ Exception Handling:
 try-catch blocks are implemented to handle I/O exceptions, ensuring robustness and user-friendly error reporting.
 
 OUTPUT
+<img width="1919" height="1129" alt="1753695505851456858472614990684" src="https://github.com/user-attachments/assets/58cff338-d759-4868-bc58-7e8c79e309ca" />
